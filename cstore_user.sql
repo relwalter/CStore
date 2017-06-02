@@ -1,0 +1,14 @@
+INSERT INTO cstore.user (username, password, bname, baddress, charge, email, qq, phone, admin) VALUES ('admin', 'admin', 'User', 'User''s house', 'user', 'user@163.com', '1017056870', '13488888888', 1);
+INSERT INTO cstore.user (username, password, bname, baddress, charge, email, qq, phone, admin) VALUES ('user', 'user123', 'User', 'User''s house', 'user', 'user@163.com', '1017056870', '13488888888', 0);
+INSERT INTO cstore.user (username, password, bname, baddress, charge, email, qq, phone, admin) VALUES ('Bob', 'bob1234', 'Bob', '广东广州荔湾区abc', 'bob', 'bob@163.com', '1017056870', '13412345678', 0);
+INSERT INTO cstore.user (username, password, bname, baddress, charge, email, qq, phone, admin) VALUES ('root', '0000', 'User', 'User''s house', 'user', 'user@163.com', '1017056870', '13488888888', 1);
+INSERT INTO cstore.user (username, password, bname, baddress, charge, email, qq, phone, admin) VALUES ('daniel', 'daniel', 'Daniel', '广东珠海南沙区fig. 8', 'Daniel', '123456', 'daniel@163.com', '13456784321', 0);
+INSERT INTO cstore.user (username, password, bname, baddress, charge, email, qq, phone, admin) VALUES ('cindy', 'cindy123', 'Cindy', '广东深圳越秀区007', '007', '007@163.com', '1234007', '12345678909', 0);
+INSERT INTO cstore.user (username, password, bname, baddress, charge, email, qq, phone, admin) VALUES ('emily', 'emily123', 'Emily', '广东珠海南沙区fig. 9', 'Emily', '1234567', 'emily@163.com', '13466666666', 0);
+INSERT INTO cstore.user (username, password, bname, baddress, charge, email, qq, phone, admin) VALUES ('fox', 'fox123', 'Fox', '广东珠海南沙区fig. 3', 'Fox', '12345678', 'fox@163.com', '1344444444', 1);
+INSERT INTO cstore.user (username, password, bname, baddress, charge, email, qq, phone, admin) VALUES ('george', 'george123', 'George', '广东珠海南沙区fig. 1', 'George', '123456789', 'george@163.com', '13443211234', 0);
+INSERT INTO cstore.user (username, password, bname, baddress, charge, email, qq, phone, admin) VALUES ('heily', 'heily123', 'Heily', '广东珠海南沙区fig. 10', 'Heily', '1234567890', 'heily@163.com', '13443218765', 0);
+INSERT INTO cstore.user (username, password, bname, baddress, charge, email, qq, phone, admin) VALUES ('test', 'test1234', 'Test', '广东广州海珠区test', 'Test', 'test123@163.com', '1234567890', '12345678909', 0);
+INSERT INTO cstore.user (username, password, bname, baddress, charge, email, qq, phone, admin) VALUES ('alison', 'alison', 'Alice', '广东广州荔湾区Alis009', 'Alis', 'alison09@163.com', '12345678', '12332145660', 0);
+INSERT INTO cstore.user (username, password, bname, baddress, charge, email, qq, phone, admin) VALUES ('oooyou', 'wugang2008', 'Oooyou', '广东广州荔湾区Oooyou', '吴刚', 'oooyou@163.com', '99887766', '13713613523', 0);
+INSERT INTO cstore.user (username, password, bname, baddress, charge, email, qq, phone, admin) VALUES ('昂猫来耶', '123456', '昂猫网站', '广东中山荔湾区', '昂猫', 'ooobug@163.com', '123456789', '13722233366', 0);
